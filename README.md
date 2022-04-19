@@ -1,4 +1,4 @@
-## Olá, eu sou o Jonathan costa, desenvolvedor Front-End!
+## Olá, eu sou o Jonathan, desenvolvedor Front-End!
 <div align="center">
   <a href="https://github.com/jonathancosta746">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathancosta746&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
